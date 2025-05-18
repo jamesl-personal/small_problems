@@ -1,0 +1,3 @@
+"Two random points, one red and one blue, are chosen uniformly and independently from the interior of a square. To ten decimal places (or the exact number, if you know it), what is the probability that there exists a point on the side of the square closest to the blue point that is equidistant to both the blue point and the red point? Visit our puzzle page to submit your solution."
+
+https://www.janestreet.com/puzzles/beside-the-point-index/
